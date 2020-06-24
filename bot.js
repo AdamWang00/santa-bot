@@ -1,4 +1,3 @@
-// https://github.com/DevYukine/Music-Bot/blob/master/MusicBot.js
 const { Client, Util } = require('discord.js');
 const { TOKEN, PREFIX, GOOGLE_API_KEY, HANGMAN_LIST, HANGMAN } = require('./config');
 const YouTube = require('simple-youtube-api');
